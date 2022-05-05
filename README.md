@@ -1,0 +1,1 @@
+# ESG_Weighted_Momentum_Strategy
